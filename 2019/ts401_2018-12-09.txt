@@ -1,1 +1,96 @@
+129391pksv:X1:Praha jih;3:09,Praha-Libeň;3:22;3:29,Praha Masarykovo nádraží;3:34
+129391sv:vX:Praha jih;3:09,Praha Masarykovo nádraží;3:34
+109505pk:X1:Praha Masarykovo nádraží;3:41,Kolín;4:49
+9505:vX
+9310:7
+9317:T
+9314:X
+9319:X
+9322:T
+9323:T
+5005:X
+5007:T
+5012:X
+5026:7
+8649:X
+5019:X5
+7177:X5,7
+7181:X1234
+20571:X5
+20570:X5
+7187:X5
 
+7140:X1
+7145:X1
+5034:6
+1978:X
+5002:6
+5025:6
+8662:6
+9324:X
+9325:X
+9328:6
+9329:6
+9330:X
+109333pk:X:Praha Masarykovo nádraží;14:01,Kolín;15:11
+9334:6
+9341:6
+9338:X
+109345pk:X:Praha Masarykovo nádraží;17:01,Kolín;18:13
+9346:6
+9353:6
+9358:6
+9361:6
+
+9310:X
+9317:X
+9322:X
+9323:X
+8655:T
+8662:T
+9328:XT
+109329pk:X:Praha Masarykovo nádraží;13:01,Kolín;14:11
+9329:T
+9334:XT
+109341pk:X:Praha Masarykovo nádraží;16:01,Kolín;17:13
+9341:T
+9346:XT
+109353pk:X:Praha Masarykovo nádraží;19:01,Kolín;20:11
+9353:T
+9358:XT
+9361:XT
+
+9306:X
+9313:X
+9318:X
+8605:X
+8602:X
+8609:X
+8606:X
+109331pk:X:Praha Masarykovo nádraží;13:31,Kolín;14:41
+9336:X
+109343pk:X:Praha Masarykovo nádraží;16:31,Kolín;17:41
+9348:X
+9355:X
+
+109316pk:X:Kolín;6:50,Praha Masarykovo nádraží;8:05
+9333:X
+109338pk:X:Kolín;15:20,Praha Masarykovo nádraží;16:35
+9345:X
+
+9304:25
+129390sv:25:Praha Masarykovo nádraží;5:12,Praha jih;5:45
+109310pk:X:Kolín;5:20,Praha Masarykovo nádraží;6:35
+109197sv:X:Praha Masarykovo nádraží;6:58,Praha-Horní Počernice;7:14
+9113:X
+9114:X
+129012sv:Praha hl.n.;9:23,Praha jih;9:31
+!!! 11:00 - 24:00 ÚDRŽBA SÚ !!!
+
+!!! 00:00 - 11:00 ÚDRŽBA SÚ !!!
+129301sv:X:Praha jih;12:14,Praha Masarykovo nádraží;12:48
+9329:X
+109334pk:X:Kolín;14:20,Praha Masarykovo nádraží;15:35
+9341:X
+109346pk:X:Kolín;17:20,Praha Masarykovo nádraží;18:35
+9533:X
