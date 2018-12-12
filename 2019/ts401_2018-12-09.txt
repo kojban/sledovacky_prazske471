@@ -227,3 +227,55 @@
 9350
 9357
 8660
+
+8651:X
+109312|pk Kol-Pha|postrk Kolín - Pha Masarykovo:X:Pardubice hl.n.;5:02,Praha Masarykovo nádraží;7:05
+9308:25
+9315:25
+9316:25
+8603:25
+8600:25
+8607:25
+8604:25
+8611:25
+8608:25
+9335:25
+9336:25
+9343:25
+9344:25
+9351:25
+9352:25
+8613:25
+8612:25
+109363:6:Praha Masarykovo nádraží;22:31,Český Brod;23:08
+9363:T
+9335:X
+109340pk:X:Kolín;15:50,Praha Masarykovo nádraží;17:05
+9347:X
+121812pksv|př PVr-Pji|přípřež Pha-Vršovice - Pha jih:X5:Kolín;20:05,Praha-Vršovice;20:46;20:53,Praha jih;20:57
+109392sv:6:Český Brod;23:15,Praha jih;23:51
+
+9302:X
+9309:X6
+129393sv:6:Praha jih;4:22,Praha Masarykovo nádraží;4:48
+8655:6
+9316:X
+8603:X
+8600:X
+8607:X
+8604:X
+8611:X
+8608:X
+5008:6
+9332:6
+109335pk:X:Praha Masarykovo nádraží;13:31,Kolín;15:41
+9337:6
+9342:6
+9349:6
+9354:6
+9359:6
+9340:X
+109347pk:X:Praha Masarykovo nádraží;17:31,Kolín;18:41
+9352:X
+8613:X
+109390sv:X:Český Brod;21:20,Praha jih;21:59
