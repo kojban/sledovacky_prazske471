@@ -188,3 +188,22 @@
 9351:X
 121812sv|pk PVr-Pji|postrk Pha-Vršovice - Pha jih:X5:Kolín;20:05,Praha-Vršovice;20:46;20:53,Praha jih;20:57
 
+9308:X
+109403pk:X:Praha Masarykovo nádraží;6:22,Milovice;7:06
+25614:X
+125617pk:X:Lysá nad Labem;7:33,Milovice;7:39
+9408:X
+105815pk:Praha Masarykovo nádraží;8:52,Nymburk hl.n.;9:49
+5816:X
+9413:X
+25624:X
+25627:X
+9418:X
+105829pk:Praha Masarykovo nádraží;13:52,Nymburk hl.n.;14:49
+5832:X
+109425pk:X:Praha Masarykovo nádraží;17:22,Milovice;18:06
+25636:X
+9465:X
+105892vlož|pk Lys-Pji|postrk Lysá n.L. - Pha jih:X5:Nymburk hl.n.;20:15,Lysá nad Labem;20:27;20:43,Praha jih;21:24
+
+106902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X1:Praha jih;3:09,Praha-Libeň;3:22;3:29,Praha Masarykovo nádraží;3:34
