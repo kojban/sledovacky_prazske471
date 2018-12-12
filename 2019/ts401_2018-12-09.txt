@@ -206,4 +206,24 @@
 9465:X
 105892vlož|pk Lys-Pji|postrk Lysá n.L. - Pha jih:X5:Nymburk hl.n.;20:15,Lysá nad Labem;20:27;20:43,Praha jih;21:24
 
-106902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X1:Praha jih;3:09,Praha-Libeň;3:22;3:29,Praha Masarykovo nádraží;3:34
+106902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X6:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
+9307:6
+5873:X
+5804:X
+129393sv:T:Praha jih;4:22,Praha Masarykovo nádraží;4:48
+9309:T
+105804pk:X:Nymburk hl.n.;6:06,Praha Masarykovo nádraží;7:01
+9331:X
+109336pk:X:Kolín;14:50,Praha Masarykovo nádraží;16:05
+9343:X
+9314:25
+9319:25
+9324:25
+9325:25
+9330:25
+9333:25
+9338:25
+9345:25
+9350
+9357
+8660
