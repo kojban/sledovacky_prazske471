@@ -150,3 +150,41 @@
 9349:T
 9354:XT
 9359:XT
+
+109308|pk Kol-Pha|postrk Kolín - Praha:X:Řečany nad Labem;4:22,Praha Masarykovo nádraží;6:05
+9403:X
+9310:6
+9317:6
+9322:6
+9323:6
+125614pk:X:Milovice;7:14,Lysá nad Labem;7:20
+25617:X
+109408pk:X:Milovice;7:47,Praha Masarykovo nádraží;8:31
+5815:X
+5820:X
+9417:X
+25628:X
+25631:X
+9422:X
+105833pk:X:Praha Masarykovo nádraží;15:52,Nymburk hl.n.;16:49
+5836:X
+109429pk:X:Praha Masarykovo nádraží;19:22,Milovice;20:06
+25640:X
+9467:X
+5007:6
+15365:6
+15364:6
+5026:6
+8657:6
+8658:6
+
+5850:X
+5807:X
+5806:X
+129300pksv|př PVr-Pji|přípřež Pha-Vršovice - Pha jih:X:Praha Masarykovo nádraží;8:10,Praha-Vršovice;8:34;8:41,Praha jih;8:45
+129307sv|pk PVr-PMa|postrk Pha-Vršovice - Pha Masarykovo:X:Praha jih;14:16,Praha-Vršovice;14:20;14:27,Praha Masarykovo nádraží;14:48
+9339:X
+109344pk:X:Kolín;16:50,Praha Masarykovo nádraží;18:05
+9351:X
+121812sv|pk PVr-Pji|postrk Pha-Vršovice - Pha jih:X5:Kolín;20:05,Praha-Vršovice;20:46;20:53,Praha jih;20:57
+
