@@ -5,4 +5,15 @@
 9920:X
 9933:X
 109933sv:X:Praha hl.n.;9:42,Praha jih;9:50
-100690pksv
+100690pksv:6:Praha jih;8:24,Praha hl.n.;8:35
+100690sv:7:Praha jih;8:24,Praha hl.n.;8:35
+100690pk:6:Praha hl.n.;8:51,Děčín hl.n.;10:31
+690:7
+683:7
+100683sv:7:Praha hl.n.;13:16,Praha jih;13:27
+108842sv:X:Praha jih;13:26,Praha hl.n.;13:34
+108842pk:X:Praha hl.n.;13:50,Beroun;14:40
+8849:X
+100684sv:7:Praha jih;14:27,Praha hl.n.;14:38
+684:7
+108856pk:X:Český Brod;16:34,Beroun;18:10
