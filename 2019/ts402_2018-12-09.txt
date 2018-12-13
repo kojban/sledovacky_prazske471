@@ -1,0 +1,43 @@
+129391sv:7:Praha jih;3:09,Praha Masarykovo nádraží;3:34
+206902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
+9305:7
+9307:X
+9312:X7
+8601:X7
+9320:7
+8605:7
+8602:7
+8609:7
+8606:7
+9331:7
+8610:X7
+109339pk:X:Praha Masarykovo nádraží;15:31,Kolín;16:41
+9344:X
+9339:7
+9340:7
+9347:7
+109351pk:X:Praha Masarykovo nádraží;18:31,Kolín;19:41
+9348:7
+9355:7
+9356:X
+9356:7
+8615:X7
+8614:X7
+8619:X7
+
+15842:X
+15845:X
+5804:X
+9405:X
+25616:X
+25619:X
+9410:X
+5819:X
+5822:X
+109419pk:Praha Masarykovo nádraží;14:22,Milovice;15:06
+25630:X
+125633pk:X:Lysá nad Labem;15:33,Milovice;15:39
+9424:X
+105835pk:X:Praha Masarykovo nádraží;16:52,Nymburk hl.n.;17:49
+206902pksv|vlož LnL-Pji|vložená Lysá n.L. - Pha jih:X5:Nymburk hl.n.;20:15,Lysá nad Labem;20:27;20:43,Praha jih;21:24
+
