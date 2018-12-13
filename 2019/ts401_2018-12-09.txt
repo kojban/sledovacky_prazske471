@@ -1,4 +1,4 @@
-129391pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X1:Praha jih;3:09,Praha-Libeň;3:22;3:29,Praha Masarykovo nádraží;3:34
+229391pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X1:Praha jih;3:09,Praha-Libeň;3:22;3:29,Praha Masarykovo nádraží;3:34
 129391sv:vX:Praha jih;3:09,Praha Masarykovo nádraží;3:34
 109505pk:X1:Praha Masarykovo nádraží;3:41,Kolín;4:49
 9505:vX
@@ -181,7 +181,7 @@
 5850:X
 5807:X
 5806:X
-129300pksv|př PVr-Pji|přípřež Pha-Vršovice - Pha jih:X:Praha Masarykovo nádraží;8:10,Praha-Vršovice;8:34;8:41,Praha jih;8:45
+229300pksv|př PVr-Pji|přípřež Pha-Vršovice - Pha jih:X:Praha Masarykovo nádraží;8:10,Praha-Vršovice;8:34;8:41,Praha jih;8:45
 129307sv|pk PVr-PMa|postrk Pha-Vršovice - Pha Masarykovo:X:Praha jih;14:16,Praha-Vršovice;14:20;14:27,Praha Masarykovo nádraží;14:48
 9339:X
 109344pk:X:Kolín;16:50,Praha Masarykovo nádraží;18:05
@@ -206,7 +206,7 @@
 9465:X
 105892vlož|pk Lys-Pji|postrk Lysá n.L. - Pha jih:X5:Nymburk hl.n.;20:15,Lysá nad Labem;20:27;20:43,Praha jih;21:24
 
-106902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X6:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
+206902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X6:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
 9307:6
 5873:X
 5804:X
@@ -252,7 +252,7 @@
 9335:X
 109340pk:X:Kolín;15:50,Praha Masarykovo nádraží;17:05
 9347:X
-121812pksv|př PVr-Pji|přípřež Pha-Vršovice - Pha jih:X5:Kolín;20:05,Praha-Vršovice;20:46;20:53,Praha jih;20:57
+221812pksv|př PVr-Pji|přípřež Pha-Vršovice - Pha jih:X5:Kolín;20:05,Praha-Vršovice;20:46;20:53,Praha jih;20:57
 109392sv:6:Český Brod;23:15,Praha jih;23:51
 
 9302:X
