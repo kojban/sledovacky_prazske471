@@ -3,7 +3,7 @@
 109401pksv:X:Praha jih;4:45,Praha hl.n.;4:56
 2505:7
 2510:7
-2517:
+2517:7
 2509:X
 2512:X
 102519pk:X:Praha hl.n.;7:35,Benešov u Prahy;8:38
