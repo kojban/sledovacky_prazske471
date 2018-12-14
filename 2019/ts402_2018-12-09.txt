@@ -1,6 +1,6 @@
 129391sv:7:Praha jih;3:09,Praha Masarykovo nádraží;3:34
 206902pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo:X:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
-9305:
+9305:7
 9307:X
 9312:X7
 8601:X7
