@@ -208,7 +208,7 @@
 25625:X
 9416:X
 5825:X
-5832|pk Nym-Pma|postrk Nymburk hl.n. - Pha Masarykovo:X:Kolín;15:29,Praha Masarykovo nádraží;17:01
+5832|pk Nym-PMa|postrk Nymburk hl.n. - Pha Masarykovo:X:Kolín;15:29,Praha Masarykovo nádraží;17:01
 9425:X
 125636pk:X:Milovice;18:14,Lysá nad Labem;18:20
 25639:X
@@ -424,4 +424,44 @@
 9437
 25648
 
-DALŠÍ TD18
+25601:X6
+9400:X:Milovice;0:17,Lysá nad Labem;0:23
+9400:6:Milovice;0:17,Praha hl.n.;1:00
+129333:6:Praha hl.n.;1:06,Praha-Libeň;1:11
+99999:6:DispD EMJ Praha;7:00;18:00
+125611pk:X:Lysá nad Labem;5:33,Milovice;5:39
+25611:7
+9404:X7
+105811pk:X:Praha Masarykovo nádraží;6:52,Nymburk hl.n.;7:49
+5811:7:Praha Masarykovo nádraží;6:52,Kolín;6:28
+5808:X
+9409:X
+25620:X
+5816:7
+25623:X
+9413:7
+9414:X
+25624:7
+5823:X
+25627:7
+9418:7
+5828:X
+5829:7
+109423pk:X:Praha Masarykovo nádraží;16:22,Milovice;17:06
+5834:7
+25634:X
+125637pk:X:Lysá nad Labem;17:33,Milovice;17:39
+9427:7
+9428:X
+9163:7
+105839pk:X1234:Praha Masarykovo nádraží;18:52,Kolín;20:28
+105839pk:X5:Praha Masarykovo nádraží;18:52,Nymburk hl.n.;19:49
+9152:7
+9432:7
+5841:7
+9362:7
+305892sv|vlož LnL-Pji|vložená Lysá n.L. - Pha jih:X5:Nymburk hl.n.;20:15,Lysá nad Labem;20:27;20:43,Praha jih;21:24
+
+9301:X1
+105803sv:6:Praha jih;4:01,Praha hl.n.;4:12
+5803:6
