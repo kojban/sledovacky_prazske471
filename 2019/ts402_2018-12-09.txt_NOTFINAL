@@ -465,3 +465,153 @@
 9301:X1
 105803sv:6:Praha jih;4:01,Praha hl.n.;4:12
 5803:6
+9107:X
+5808:6
+99999:7:DispD EMJ Praha;8:00;19:00
+9107:X
+109108pk:X:Strančice;7:08,Praha-Horní Počernice;7:59
+9109:6
+9117:X
+109118pk:X:Říčany;9:45,Praha hl.n.;10:12
+9123:X
+9124:X
+9129:X
+9130:X
+9137:X
+9138:X
+25620:6
+25623:6
+9414:6
+5823:6
+5828:6
+9423:6
+25634:6
+25637:6
+9428:6
+5839:6
+2577:6
+102551pk:X:Praha hl.n.;15:35,Benešov u Prahy;16:38
+2554:X
+102561pk:X:Praha hl.n.;18:05,Benešov u Prahy;19:08
+2564:X
+9167:X
+109194sv:X5:Říčany;21:37,Praha jih;22:01
+
+2502:7
+5877:7
+5806:7
+109191sv:X1:Praha-Libeň;4:30,Říčany;4:44
+9100:X
+109193sv:X:Praha hl.n.;5:57,Strančice;6:27
+9106:X
+129006pksv:X:Praha hl.n.;7:27,Praha jih;7:38
+9407:7
+25618:7
+25621:7
+9412:7
+5821:7
+5826:7
+9421:7
+25632:7
+25635:7
+9426:7
+5837:7
+5842:7
+9435:7
+129305pksv|př PVr-PMa|přípřež Pha-Vršovice - Pha Masarykovo:X:Praha jih;13:31,Praha-Vršovice;13:35;13:42,Praha Masarykovo nádraží;13:59
+9419:X
+125630pk:X:Milovice;15:14,Lysá nad Labem;15:20
+25633:X
+109424pk:X:Milovice;15:47,Praha Masarykovo nádraží;16:31
+5835:X
+5840:X
+9433:X
+25644:X
+25647:X
+9438:X
+25649:X
+25646:X7
+
+9103:X
+9104:X
+9109:X
+109110pk:X:Strančice;7:38,Praha hl.n.;8:12
+25611:6
+9404:6
+5811:6
+5816:6
+9413:6
+25624:6
+25627:6
+9418:6
+329008vložsv:X:Praha hl.n.;8:39,Praha jih;8:50
+129303sv:X:Praha jih;13:03,Praha Masarykovo nádraží;13:28
+5829:X6
+5834|pk Nym-PMa|postrk Nymburk hl.n. - Pha Masarykovo:X:Kolín;16:29,Praha Masarykovo nádraží;18:01
+5834:6
+9427:X6
+9163:6
+9152:6
+9432:6
+5841:6
+9362:6
+109163pk:X:Milovice;19:14,Říčany;20:45
+109192sv|pk PVr-Pji|postrk Pha-Vršovice - Pha jih:X:Říčany;20:51,Praha-Vršovice;21:04;21:11,Praha jih;21:15
+
+9301:7
+5860:7
+25612:7
+25613:7
+9406:7
+5813:7
+5818:7
+9415:7
+25626:7
+25629:7
+9420:7
+105803sv:X:Praha jih;4:01,Praha hl.n.;4:12
+5803:X
+5806|pk Nym-PMa|postrk Nymburk hl.n. - Pha Masarykovo:X:Kolín;6:29,Praha Masarykovo nádraží;8:01
+129300sv|pk PVr-Pji|postrk Pha-Vršovice - Pha jih:X:Praha Masarykovo nádraží;8:10,Praha-Vršovice;8:34;8:41,Praha jih;8:45
+129305sv|pk PVr-PMa|postrk Pha-Vršovice - Pha Masarykovo:X:Praha jih;13:31,Praha-Vršovice;13:35;13:42,Praha Masarykovo nádraží;13:59
+5831:X7
+5836|pk Nym-PMa|postrk Nymburk hl.n. - Pha Masarykovo:X:Kolín;17:29,Praha Masarykovo nádraží;19:01
+5836:7
+9429:X7
+125640pk:X:Milovice;20:14,Lysá nad Labem;20:20
+25640:7
+25643:X7
+9434:X7
+5855:X7
+5854:X7
+
+5851:X6
+9101:X:Poděbrady;3:41,Strančice;5:22
+9101:6:Poděbrady;3:41,Praha hl.n.;4:45
+2509:6
+9102:X
+2512:6
+2519:6
+2522:6
+2529:6
+2532:6
+2539:6
+2542:6
+2549:6
+2552:6
+2559:6
+2562:6
+2569:6
+2575:6
+129026sv:6:Praha hl.n.;23:01,Praha jih;23:09
+102515pk:X:Praha hl.n.;6:35,Benešov u Prahy;7:38
+2518:X
+129010sv:X:Praha hl.n.;9:13,Praha jih;9:24
+129015sv:X:Praha jih;14:28,Praha hl.n.;14:36
+9141:X
+9142:X
+9149:X
+9150:X
+9157:X
+9158:X
+129024sv:X:Praha hl.n.;20:27,Praha jih;20:38
