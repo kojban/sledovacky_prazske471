@@ -84,7 +84,7 @@
 109197sv:X:Praha Masarykovo nádraží;6:58,Praha-Horní Počernice;7:14
 9113:X
 9114:X
-129012sv:Praha hl.n.;9:23,Praha jih;9:31
+129012sv:X:Praha hl.n.;9:23,Praha jih;9:31
 99999::Údržba SÚ;11:00;24:00
 
 99999::Údržba SÚ;00:00;11:00
