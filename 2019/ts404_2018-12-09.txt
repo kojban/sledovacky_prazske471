@@ -1,4 +1,4 @@
-06902sv|pk PLi-PMa|pk Pha-Libeň - Pha Masarykovo:X6:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
+106902sv|pk PLi-PMa|pk Pha-Libeň - Pha Masarykovo:X6:Praha jih;3:50,Praha-Libeň;4:03;4:10,Praha Masarykovo nádraží;4:15
 106902sv:7:Praha jih;3:50,Praha Masarykovo nádraží;4:15
 6902
 6943
