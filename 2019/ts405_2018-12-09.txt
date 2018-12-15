@@ -1,5 +1,5 @@
 108808sv:X:Praha jih;4:52,Praha hl.n.;5:01
-08808pk:X:Praha hl.n.;5:20,Beroun;6:10
+108808pk:X:Praha hl.n.;5:20,Beroun;6:10
 8815:X
 108822pk:X:Český Brod;8:08,Beroun;9:40
 8829:X
