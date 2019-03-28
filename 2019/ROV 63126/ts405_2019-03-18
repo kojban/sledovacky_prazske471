@@ -104,56 +104,83 @@
 9976: 25: Praha hl.n.;23:50, Praha-Radotín;0:07
 
 109991sv: X1: Praha-Radotín;0:14, Praha jih;0:34
-208804pksv: X: Praha jih;4:02, Praha hl.n.;4:10
+308804pksv: X: Praha jih;4:02, Praha hl.n.;4:10
+208804sv: 6: Praha jih;4:02, Praha hl.n.;4:10
+8804: X6: Praha hl.n.;4:20, Beroun;5:10
 8807: T: Beroun;4:20, Praha hl.n.;5:12
-8804: X: Praha hl.n.;4:20, Beroun;5:10
 108811pk: X: Beroun;5:20, Český Brod;6:53
+8808: T: Praha hl.n.;5:20, Beroun;6:10
+8813: 6: Beroun;5:50, Praha hl.n.;6:42
+8814: 6: Praha hl.n.;6:50, Beroun;7:40
+8817: T: Beroun;6:50, Praha hl.n.;7:42
 8818: X: Český Brod;7:08, Beroun;8:40
+8818: T: Praha hl.n.;7:50, Řevnice;8:22
+108823pk: 6: Beroun;8:20, Praha hl.n.;9:12
+8823: T: Řevnice;8:37, Praha hl.n.;9:12
 8825: X: Beroun;8:50, Praha hl.n.;9:42
+8824: 25: Praha hl.n.;9:20, Beroun;10:10
 8828: X: Praha hl.n.;10:20, Řevnice;10:52
+108831pk: 6: Beroun;10:20, Praha hl.n.;11:12
+8831: T: Beroun;10:20, Praha hl.n.;11:12
+8832: 25: Praha hl.n.;11:20, Beroun;12:10
 8835: X: Řevnice;11:37, Praha hl.n.;12:12
 8836: X: Praha hl.n.;12:20, Beroun;13:10
-108843pk: X: Beroun;13:20, Český Brod;14:50
-8808: T: Praha hl.n.;5:20, Beroun;6:10
-8817: T: Beroun;6:50, Praha hl.n.;7:42
-8818: T: Praha hl.n.;7:50, Řevnice;8:22
-8823: T: Řevnice;8:37, Praha hl.n.;9:12
-8824: T: Praha hl.n.;9:20, Beroun;10:10
-8831: T: Beroun;10:20, Praha hl.n.;11:12
-8832: T: Praha hl.n.;11:20, Beroun;12:10
+108839pk: 6: Beroun;12:20, Praha hl.n.;13:12
 8839: T: Beroun;12:20, Praha hl.n.;13:12
+108843pk: X: Beroun;13:20, Český Brod;14:50
 8840: T: Praha hl.n.;13:20, Beroun;14:10
-8847: T: Beroun;14:20, Praha hl.n.;15:12
-8848: T: Praha hl.n.;15:20, Beroun;16:10
-8855: T: Beroun;16:20, Praha hl.n.;17:12
-8856: T: Praha hl.n.;17:20, Beroun;18:10
-8863: T: Beroun;18:20, Praha hl.n.;19:12
-8864: T: Praha hl.n.;19:20, Beroun;20:10
+108847pk: 25: Beroun;14:20, Praha hl.n.;15:12
 8850: X: Český Brod;15:08, Beroun;16:40
+8848: 25: Praha hl.n.;15:20, Beroun;16:10
+108855pk: 25: Beroun;16:20, Praha hl.n.;17:12
 108857pk: X: Beroun;16:50, Český Brod;18:20
+8856: 25: Praha hl.n.;17:20, Beroun;18:10
+108863pk: 25: Beroun;18:20, Praha hl.n.;19:12
 8864: X: Český Brod;18:34, Beroun;20:10
-8873: zX: Beroun;20:50, Praha hl.n.;21:42
-221819pksv: X5: Beroun;21:15, Praha jih;22:05
-9972: zX: Praha hl.n.;21:50, Řevnice;22:23
-9971: zX: Řevnice;22:36, Praha hl.n.;23:12
-8874: zX: Praha hl.n.;23:20, Beroun;0:10
+8864: 25: Praha hl.n.;19:20, Beroun;20:10
+8873: : Beroun;20:50, Praha hl.n.;21:42
+9972: : Praha hl.n.;21:50, Řevnice;22:23
+9971: : Řevnice;22:36, Praha hl.n.;23:12
+8874: : Praha hl.n.;23:20, Beroun;0:10
 
+109991sv: 7: Praha-Radotín;0:14, Praha jih;0:34
 8803: X: Beroun;3:50, Praha hl.n.;4:42
+208804sv: 7: Praha jih;4:02, Praha hl.n.;4:10
+8804: 7: Praha hl.n.;4:20, Beroun;5:10
 8806: X: Praha hl.n.;4:50, Beroun;5:40
+8809: 6: Beroun;4:50, Praha hl.n.;5:42
+8810: 6: Praha hl.n.;5:50, Řevnice;6:22
 8813: X: Beroun;5:50, Český Brod;7:20
+8813: 7: Beroun;5:50, Praha hl.n.;6:42
+8815: 6: Řevnice;6:37, Praha hl.n.;7:12
+8814: 7: Praha hl.n.;6:50, Beroun;7:40
+8816: 6: Praha hl.n.;7:20, Beroun;8:10
 108820pk: X: Český Brod;7:38, Beroun;9:10
+8821: 7: Beroun;7:50, Praha hl.n.;8:42
+8822: 7: Praha hl.n.;8:50, Beroun;9:40
+8823: 6: Beroun;8:20, Praha hl.n.;9:12
 8827: X: Beroun;9:20, Praha hl.n.;10:12
-208827pksv: X: Praha hl.n.;10:25, Praha jih;10:33
-108838sv: X: Praha jih;12:22, Praha hl.n.;12:30
+108824pk: 6: Praha hl.n.;9:20, Beroun;10:10
+8829: 7: Beroun;9:50, Praha hl.n.;10:42
+8831: 6: Beroun;10:20, Praha hl.n.;11:12
+308827pksv: X: Praha hl.n.;10:25, Praha jih;10:33
+8830: 7: Praha hl.n.;10:50, Beroun;11:40
+108832pk: 6: Praha hl.n.;11:20, Beroun;12:10
+8837: 7: Beroun;11:50, Praha hl.n.;12:42
+8839: 6: Beroun;12:20, Praha hl.n.;13:12
+208838sv: X: Praha jih;12:22, Praha hl.n.;12:30
 108838pk: X: Praha hl.n.;12:50, Beroun;13:40
+108840pk: 25: Praha hl.n.;13:20, Beroun;14:10
 8845: X: Beroun;13:50, Český Brod;15:20
+8847: 25: Beroun;14:20, Praha hl.n.;15:12
+108848pk: 25: Praha hl.n.;15:20, Beroun;16:10
 108852pk: X: Český Brod;15:34, Beroun;17:10
+8855: 25: Beroun;16:20, Praha hl.n.;17:12
 8859: X: Beroun;17:20, Český Brod;18:52
+108856pk: 25: Praha hl.n.;17:20, Beroun;18:10
+8863: 25: Beroun;18:20, Praha hl.n.;19:12
 108866pk: X: Český Brod;19:08, Beroun;20:40
-8873: X5: Beroun;20:50, Praha hl.n.;21:42
-9972: X5: Praha hl.n.;21:50, Řevnice;22:23
-9971: X5: Řevnice;22:36, Praha hl.n.;23:12
-8874: X5: Praha hl.n.;23:20, Beroun;0:10
+129034sv: 25: Praha hl.n.;19:29, Praha jih;19:37
 
 221818pksv: X1: Praha jih;3:58, Beroun;4:37
 8809: 6: Beroun;4:50, Praha hl.n.;5:42
