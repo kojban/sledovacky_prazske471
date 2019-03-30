@@ -237,21 +237,21 @@
 
 129001sv: X2345: Praha jih;0:09, Praha hl.n.;0:20
 2501: X2345: Praha hl.n.;0:30, Benešov u Prahy;1:33
-129005pksv: X1: Praha jih;4:14, Praha hl.n.;4:25
+229005pksv: X1: Praha jih;4:14, Praha hl.n.;4:25
 2507: X1: Praha hl.n.;4:35, Benešov u Prahy;5:38
 5803: 7: Nymburk hl.n.;5:25, Kolín;5:52
 102510pk: X: Benešov u Prahy;5:52, Praha hl.n.;6:52
 109195sv: X: Praha hl.n.;7:01, Strančice;7:29
-9110: X: Strančice;7:38, Praha hl.n.;8:12
-129008pksv: X: Praha hl.n.;8:39, Praha jih;8:50
 5808: 7: Kolín;7:29, Praha Masarykovo nádraží;9:01
+9110: X: Strančice;7:38, Praha hl.n.;8:12
+229008pksv: X: Praha hl.n.;8:39, Praha jih;8:50
 9409: 7: Praha Masarykovo nádraží;9:22, Milovice;10:06
 25620: 7: Milovice;10:14, Lysá nad Labem;10:20
 25623: 7: Lysá nad Labem;10:33, Milovice;10:39
 9414: 7: Milovice;10:47, Praha Masarykovo nádraží;11:31
 5823: 7: Praha Masarykovo nádraží;11:52, Kolín;13:28
 5828: 7: Kolín;14:29, Praha Masarykovo nádraží;16:01
-109093sv|pk PVr-PMa|postrk Pha-Vršovice - Pha Masarykovo: X: Praha jih;14:41, Praha-Vršovice;14:45;14:52, Praha Masarykovo nádraží;15:20
+129309sv| pk PEd-PMa|postrk Praha-Eden - Praha Masarykovo nádraží: X: Praha jih;14:41, Praha-Eden;14:45;14:52, Praha Masarykovo nádraží;15:20
 9423: X7: Praha Masarykovo nádraží;16:22, Milovice;17:06
 125634pk: X: Milovice;17:14, Lysá nad Labem;17:20
 25634: 7: Milovice;17:14, Lysá nad Labem;17:20
@@ -270,19 +270,17 @@
 
 129001sv: X1: Praha jih;0:09, Praha hl.n.;0:20
 2501: X1: Praha hl.n.;0:30, Benešov u Prahy;1:33
-2504: X: Benešov u Prahy;4:22, Praha hl.n.;5:22
-2511: X: Praha hl.n.;5:35, Benešov u Prahy;6:38
-2514: X: Benešov u Prahy;6:52, Praha hl.n.;7:52
-102521pk: X: Praha hl.n.;8:05, Benešov u Prahy;9:08
-2526: X: Benešov u Prahy;9:52, Praha hl.n.;10:52
-2533: X: Praha hl.n.;11:05, Benešov u Prahy;12:08
-2538: X: Benešov u Prahy;12:52, Praha hl.n.;13:52
+2502: X: Benešov u Prahy;3:52, Kolín;6:28
+9115: X: Kolín;6:56, Strančice;8:52
+9116: X: Strančice;9:08, Praha hl.n.;9:42
+129014sv: X: Praha hl.n.;9:46, Praha jih;10:09
+329013vložsv: X: Praha jih;13:27, Praha hl.n.;13:38
 102545pk: X: Praha hl.n.;14:05, Benešov u Prahy;15:08
 2548: X: Benešov u Prahy;15:22, Praha hl.n.;16:22
 102555pk: X: Praha hl.n.;16:35, Benešov u Prahy;17:38
 2558: X: Benešov u Prahy;17:52, Praha hl.n.;18:52
 102565pk: X: Praha hl.n.;19:05, Benešov u Prahy;20:08
-121820sv|pk PVr-Pji|postrk Pha-Vršovice - Pha jih: X5: Benešov u Prahy;20:19, Praha-Vršovice;20:55;21:04, Praha jih;21:11
+121820sv| pk PVr-Pji|postrk Praha-Vršovice - Praha jih: X5: Benešov u Prahy;20:19, Praha-Vršovice;20:55;21:04, Praha jih;21:11
 
 102514pk: X: Benešov u Prahy;6:52, Praha hl.n.;7:52
 2521: X: Praha hl.n.;8:05, Benešov u Prahy;9:08
