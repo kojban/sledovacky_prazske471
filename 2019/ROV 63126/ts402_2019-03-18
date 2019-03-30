@@ -126,76 +126,73 @@
 5841: X: Praha Masarykovo nádraží;20:52, Kolín;22:28
 9362: X: Kolín;22:44, Praha hl.n.;23:52
 
-9301: X2345,6: Praha hl.n.;0:30, Kolín;1:38
+9301: vX: Praha hl.n.;0:30, Kolín;1:38
 109107pk: X: Kolín;4:56, Stančice;6:52
-9108: X: Strančice;7:08, Praha-Horní Počernice;7:59
-109117pk: X: Praha-Horní Počernice;8:30, Říčany;9:15
-9118: X: Říčany;9:45, Praha hl.n.;10:12
-129014sv: X: Praha hl.n.;10:27, Praha jih;10:38
 5860: 6: Kolín;4:56, Milovice;6:06
 25612: 6: Milovice;6:14, Lysá nad Labem;6:20
 25613: 6: Lysá nad Labem;6:33, Milovice;6:39
 9406: 6: Milovice;6:47, Praha Masarykovo nádraží;7:31
+9108: X: Strančice;7:08, Praha-Horní Počernice;7:59
 5813: 6: Praha Masarykovo nádraží;7:52, Kolín;9:28
+109117pk: X: Praha-Horní Počernice;8:30, Praha hl.n.;8:46
+229010pksv: X: Praha hl.n.;9:13, Praha jih;9:24
 5818: 6: Kolín;10:29, Praha Masarykovo nádraží;12:01
 9415: 6: Praha Masarykovo nádraží;12:22, Milovice;13:06
 25626: 6: Milovice;13:14, Lysá nad Labem;13:20
+129305sv| pk PEd-PMa|postrk Praha-Eden - Praha Masarykovo nádraží: X: Praha jih;13:31, Praha-Eden;13:35;13:42, Praha Masarykovo nádraží;13:59
 25629: 6: Lysá nad Labem;13:33, Milovice;13:39
 9420: 6: Milovice;13:47, Praha Masarykovo nádraží;14:31
 5831: 6: Praha Masarykovo nádraží;14:52, Kolín;16:28
-5836: 6: Kolín;17:29, Praha Masarykovo nádraží;19:01
-9429: 6: Praha Masarykovo nádraží;19:22, Milovice;20:06
-25640: 6: Milovice;20:14, Lysá nad Labem;20:20
-25643: 6: Lysá nad Labem;20:33, Milovice;20:39
-9434: 6: Milovice;20:47, Praha Masarykovo nádraží;21:31
-5855: 6: Praha Masarykovo nádraží;21:52, Nymburk hl.n.;22:49
-5854: 6: Nymburk hl.n.;23:15, Praha hl.n.;0:08
-229307pksv|př PVr-PMa|přípřež Pha-Vršovice - Pha Masarykovo: X: Praha jih;14:16, Praha-Vršovice;14:20;14:27, Praha Masarykovo nádraží;14:48
 109421pk: X: Praha Masarykovo nádraží;15:22, Milovice;16:06
 25632: X: Milovice;16:14, Lysá nad Labem;16:20
 125635pk: X: Lysá nad Labem;16:33, Milovice;16:39
 9426: X: Milovice;16:47, Praha Masarykovo nádraží;17:31
+5836: 6: Kolín;17:29, Praha Masarykovo nádraží;19:01
 105837pk: X1234: Praha Masarykovo nádraží;17:52, Nymburk hl.n.;18:49
 105837pk: X5: Praha Masarykovo nádraží;17:52, Kolín;19:28
+9429: 6: Praha Masarykovo nádraží;19:22, Milovice;20:06
+25640: 6: Milovice;20:14, Lysá nad Labem;20:20
 5842: X5: Kolín;20:29, Praha Masarykovo nádraží;22:01
+25643: 6: Lysá nad Labem;20:33, Milovice;20:39
+9434: 6: Milovice;20:47, Praha Masarykovo nádraží;21:31
+5855: 6: Praha Masarykovo nádraží;21:52, Nymburk hl.n.;22:49
 5857: X5: Praha Masarykovo nádraží;22:22, Nymburk hl.n.;23:18
+5854: 6: Nymburk hl.n.;23:15, Praha hl.n.;0:08
 
 5851: 7: Praha hl.n.;0:30, Poděbrady;1:30
-5890sv: 7: Poděbrady;1:36,Nymburk hl.n.;1:43 
+105890sv: 7: Poděbrady;1:36,Nymburk hl.n.;1:43 
 5873: 25: Nymburk hl.n.;4:25, Kolín;4:52
 5802: 25: Kolín;5:29, Praha Masarykovo nádraží;7:01
+15848: X: Nymburk hl.n.;5:41, Poříčany;6:11
+9481: X: Poříčany;6:19, Kutná Hora hl.n.;7:39
 9405: 25: Praha Masarykovo nádraží;7:22, Milovice;8:06
+9119: X: Kutná Hora hl.n.;7:45, Praha hl.n.;9:15
 25616: 25: Milovice;8:14, Lysá nad Labem;8:20
 25619: 25: Lysá nad Labem;8:33, Milovice;8:39
 9410: 25: Milovice;8:47, Praha Masarykovo nádraží;9:31
-15848: X: Nymburk hl.n.;5:41, Poříčany;6:11
-9481: X: Poříčany;6:19, Kutná Hora hl.n.;7:39
-9119: X: Kutná Hora hl.n.;7:45, Říčany;9:45
-9120: X: Říčany;10:15, Praha hl.n.;10:42
-9125: X: Praha hl.n.;10:47, Říčany;11:15
-9126: X: Říčany;11:45, Praha hl.n.;12:12
-9131: X: Praha hl.n.;12:17, Říčany;12:45
-9132: X: Říčany;13:15, Lysá nad Labem;14:19
-9143: X: Lysá nad Labem;14:40, Strančice;15:52
-9144: X: Strančice;16:08, Lysá nad Labem;17:19
-9155: X: Lysá nad Labem;17:40, Strančice;18:52
-9156: X: Strančice;19:08, Lysá nad Labem;20:19
+129012pksv: X: Praha hl.n.;9:23, Praha jih;9:31
 5819: 25: Praha Masarykovo nádraží;9:52, Kolín;11:28
 5822: 25: Kolín;12:29, Praha Masarykovo nádraží;14:01
+129013sv: X: Praha jih;13:27, Praha hl.n.;13:38
+9132: X: Praha hl.n.;13:44, Lysá nad Labem;14:19
 9419: 25: Praha Masarykovo nádraží;14:22, Milovice;15:06
+9143: X: Lysá nad Labem;14:40, Strančice;15:52
 25630: 25: Milovice;15:14, Lysá nad Labem;15:20
 25633: 25: Lysá nad Labem;15:33, Milovice;15:39
 9424: 25: Milovice;15:47, Praha Masarykovo nádraží;16:31
+9144: X: Strančice;16:08, Lysá nad Labem;17:19
 5835: 25: Praha Masarykovo nádraží;16:52, Kolín;18:28
+9155: X: Lysá nad Labem;17:40, Strančice;18:52
+9156: X: Strančice;19:08, Lysá nad Labem;20:19
 5840: 25: Kolín;19:29, Praha Masarykovo nádraží;21:01
+105892sv: X5: Lysá nad Labem;20:43, Praha jih;21:24
 9433: 25: Praha Masarykovo nádraží;21:22, Milovice;22:06
 25644: 25: Milovice;22:14, Lysá nad Labem;22:20
 25647: 25: Lysá nad Labem;22:33, Milovice;22:39
 9438: 25: Milovice;22:47, Praha hl.n.;23:31
 9171: 25: Praha hl.n.;23:35, Říčany;0:03
-105892sv: X5: Lysá nad Labem;20:43, Praha jih;21:24
 
-109196sv: X1,7: Říčany;0:11, Praha jih;0:40
+109196sv: v25: Říčany;0:11, Praha jih;0:40
 309401vložsv: X1: Praha jih;4:45, Praha hl.n.;4:56
 109401pk: X1: Praha hl.n.;5:23, Milovice;6:06
 25612: X1: Milovice;6:14, Lysá nad Labem;6:20
@@ -208,7 +205,7 @@
 25625: X: Lysá nad Labem;11:33, Milovice;11:39
 9416: X: Milovice;11:47, Praha Masarykovo nádraží;12:31
 5825: X: Praha Masarykovo nádraží;12:52, Kolín;14:28
-5832|pk Nym-PMa|postrk Nymburk hl.n. - Pha Masarykovo: X: Kolín;15:29, Praha Masarykovo nádraží;17:01
+105832| pk Nym-PMa|postrk Nymburk hl.n. - Praha Masarykovo nádraží: X: Kolín;15:29, Praha Masarykovo nádraží;17:01
 9425: X: Praha Masarykovo nádraží;17:22, Milovice;18:06
 125636pk: X: Milovice;18:14, Lysá nad Labem;18:20
 25639: X: Lysá nad Labem;18:33, Milovice;18:39
@@ -216,14 +213,14 @@
 5853: X: Praha Masarykovo nádraží;19:52, Nymburk hl.n.;20:49
 105894sv: X5: Nymburk hl.n.;20:59, Praha jih;21:50
 
-105891sv: X1: Praha jih;3:15, Nymburk hl.n.;4:08
-9105: X: Nymburk hl.n.;4:56, Strančice;6:22
-109106pk: X: Strančice;6:39, Praha hl.n.;7:12
-129006sv: X: Praha hl.n.;7:27, Praha jih;7:38
+205891pksv: X1: Praha jih;3:15, Nymburk hl.n.;4:08
 129003sv: 6: Praha jih;3:44, Praha hl.n.;3:55
 2505: 6: Praha hl.n.;4:05, Benešov u Prahy;5:08
+9105: X: Nymburk hl.n.;4:56, Strančice;6:22
 2508: 6: Benešov u Prahy;5:22, Praha hl.n.;6:22
 2515: 6: Praha hl.n.;6:35, Benešov u Prahy;7:38
+109106pk: X: Strančice;6:39, Praha hl.n.;7:12
+129006sv: X: Praha hl.n.;7:27, Praha jih;7:38
 2518: 6: Benešov u Prahy;7:52, Praha hl.n.;8:52
 2525: 6: Praha hl.n.;9:05, Benešov u Prahy;10:08
 2528: 6: Benešov u Prahy;10:22, Praha hl.n.;11:22
